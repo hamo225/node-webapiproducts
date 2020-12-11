@@ -1,0 +1,25 @@
+{
+  "name": "node-webapi",
+  "version": "1.0.0",
+  "description": "NodeJS/API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamo225/node-webapiproducts.git"
+  },
+  "author": "Tarek Hamaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamo225/node-webapiproducts/issues"
+  },
+  "homepage": "https://github.com/hamo225/node-webapiproducts#readme",
+  "dependencies": {
+    "slugify": "^1.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
